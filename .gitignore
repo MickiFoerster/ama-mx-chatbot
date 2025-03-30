@@ -1,0 +1,3 @@
+datasets
+chroma_db_* 
+**/__pycache__
